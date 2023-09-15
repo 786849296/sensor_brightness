@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sensor_brightness</string>
+    <string name="app_text">Hello, Android!</string>
+</resources>
